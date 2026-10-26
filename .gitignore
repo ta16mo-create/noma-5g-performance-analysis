@@ -1,0 +1,10 @@
+# MATLAB
+*.asv
+*.mex*
+*.mat
+slprj/
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
+.vscode/
