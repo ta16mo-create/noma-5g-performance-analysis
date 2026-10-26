@@ -3,7 +3,7 @@
 Graduation project, B.Sc. (Honours) in Network and Telecommunication Engineering  
 **Sudan International University – Faculty of Engineering** (March 2022)
 
-**Students:** Rogea Abo Algasim Mohamed Ahmed (ET-16-043), Tanzel Moutasim Mohammed Daowd (ET-16-045), Hadeel Ismat Abd-Alla Mohamed-Ali (ET-16-018)  
+**Students:** Rogea Abo Algasim Mohamed Ahmed , Tanzel Moatasim Mohammed Daowd , Hadeel Ismat Abd-Alla Mohamed-Ali )  
 **Supervisor:** Dr. Ibrahim Khider Eltahir
 
 ## About
@@ -63,6 +63,19 @@ Main findings (see the report for details):
 - NOMA achieves larger rate regions than OFDMA, especially when the users' channel conditions differ.
 - Imperfect SIC limits the rate of the far user at high transmit power.
 - NOMA reaches higher energy efficiency and spectral efficiency than OFDMA in the downlink.
+
+## Sources and attribution
+
+- Rate regions (Figs 4.1–4.2) and imperfect SIC (Fig 4.3): based on
+  standard two-user power-domain NOMA models, e.g. [1], [2].
+- EE–SE trade-off (Fig 4.4): follows the formulation in [3];
+  the optimal power allocation scheme belongs to the original authors.
+
+[1] <full reference>
+[2] <full reference>
+[3] <full reference of the IEEE 2020 paper>
+
+My contribution: <which scripts/sections I wrote or ran>
 
 ## Notes
 
